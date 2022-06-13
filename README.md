@@ -17,5 +17,5 @@ At the end, represent it in aworking landing page.
 
 
 
-Tech used php 8, html, css.
+Tech used php 8, html, css, bootstrap 5
 

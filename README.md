@@ -1,4 +1,4 @@
 # cheapest-flight code challenge
 
-Tech used php, html, css.
+Tech used php 8, html, css.
 
